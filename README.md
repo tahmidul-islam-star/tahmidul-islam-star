@@ -1,4 +1,4 @@
-👋 Hi, I’m @tahmidul-islam-star, a beginner coder passionate about problem-solving.
+👋 Hi, I’m Tahmidul-islam a beginner coder passionate about problem-solving.
 
 👀 I’m interested in algorithms, data structures, and honing my programming skills.
 
